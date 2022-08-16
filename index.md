@@ -1,20 +1,17 @@
 =====================
 
-## Ian O'Byrne
+## Abu Tyeb Azad
+### Moniker: Mausul Azad 
 
-### Educator, Researcher, Learner 
+### Software Engineer & Researcher 
 
-![ChangeMe](https://live.staticflickr.com/1516/26082296122_f2675d3d87_o.jpg)
+mausulazad.github.io
 
-![text](https://www.publicdomainpictures.net/pictures/350000/nahled/apple-1591708617vbm.jpg)
+@abutyebazad
 
-wiobyrne.com
+linkedin.com/in/abu-tyeb-azad-404608160/
 
-@wiobyrne
-
-linkedin.com/in/CHANGEME
-
-github.com/CHANGEME
+github.com/mausulazad
 
 =====================
 
